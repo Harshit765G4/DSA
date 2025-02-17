@@ -1,3 +1,9 @@
+/*
+Write a C++ program to compute the factorial of a non-negative integer using a do-while loop.
+If the input is negative, display an error message. 
+The program should take user input, compute the factorial, and print the result.
+*/
+
 #include <iostream>
 
 using namespace std;
