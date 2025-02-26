@@ -27,9 +27,9 @@ int main() {
         case 7:
             cout<<"Sunday";
             break;
-        // default:
-        //     cout<<"Invalid Input";
-        //     break;
+        default:
+            cout<<"Invalid Input";
+            break;
     }
     return 0;
 }
