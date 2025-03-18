@@ -12,5 +12,6 @@ int main(){
         count++;
     }
     cout<<sum<<endl;
+    
     return 0;
 }
