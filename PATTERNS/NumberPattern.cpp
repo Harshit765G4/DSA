@@ -1,4 +1,5 @@
 /*
+Write a program to print the following Patter
 
 1
 22
