@@ -15,3 +15,5 @@ Date - March 16, 2025
 I have created a folder named Practice Problems where I would share different sets of problems with their logic
 
 currently I am Learning Patterns, specifically Character, star and Number Patterns
+
+some of these patterns also includen tringle pattern both inverse and reverse
