@@ -23,6 +23,12 @@ int main(){
             cout<<" ";
         }
         cout<<"*";
+        if(i!=n-2){
+            for(int j=0;j<2*(n-2-i)-1;j++){
+                cout<<" ";
+            }
+            cout<<"*";
+        }
     }
 
     return 0;
