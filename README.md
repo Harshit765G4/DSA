@@ -20,4 +20,4 @@ some of these patterns also includen tringle pattern both inverse and reverse an
 
 NOw i am studing inverse pattern
 
-I have added a New Pattern Problem that is Hollow Diamond Pattern
+
