@@ -14,6 +14,14 @@ int decToBinary(int decNum){
 }
 
 int main(){
+
+    int n;
+    cout<<"Enter Number from 0 To n to Print Binary Form : "<<endl;
+    cin>>n;
+
+    for(int i=0;i<=n;i++){
+        cout<<decToBinary(i)<<endl;
+    }
     
     return 0;
 }
