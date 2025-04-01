@@ -10,6 +10,7 @@ int decToBinary(int decNum){
         ans += (rem*pow);
         pow *= 10;
     }
+    return ans;
 }
 
 int main(){
