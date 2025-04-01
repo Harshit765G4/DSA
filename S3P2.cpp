@@ -1,0 +1,27 @@
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+class Solution {
+public:
+    int hIndex(vector<int>& citations) {
+        sort(citations.begin(), citations.end());
+        int n = citations.size();
+        for(int i = 0;i < n; i++){
+            if (citations[i]>=n-i){
+                return n-i;
+            }
+        }
+        return 0;
+    }
+};
+
+int main() {
+    vector<int> nums = {2, 0, 2, 1, 1, 0};
+    hIndex(Citations);
+
+    for (int nums : nums) {
+        cout << nums << " ";
+    }
+    return 0;
+}
