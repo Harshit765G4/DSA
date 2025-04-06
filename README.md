@@ -19,6 +19,6 @@ currently I am Learning Patterns, specifically Character, star and Number Patter
 
 some of these patterns also includen tringle pattern both inverse and reverse and also character swuare Pattern , there are some logic of square pattern also
 
-NOw i am studing inverse pattern
+I have added Inverse Pattern problem
 
 I have added a New Pattern Problem that is Hollow Diamond Pattern
