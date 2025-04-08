@@ -23,3 +23,4 @@ I have added Inverse Pattern problem
 
 I have added a New Pattern Problem that is Hollow Diamond Pattern
 
+Now starting with arrays
