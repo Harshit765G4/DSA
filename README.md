@@ -17,9 +17,10 @@ I have created a folder named Practice Problems where I would share different se
 currently I am Learning Patterns, specifically Character, star and Number Patterns
 
 
+I have added Inverse Pattern problem
+
 some of these patterns also includen tringle pattern both inverse and reverse and also character swuare Pattern , there are some logic of square pattern also
 
-I have added Inverse Pattern problem
 
 I have added a New Pattern Problem that is Hollow Diamond Pattern
 
