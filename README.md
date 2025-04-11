@@ -27,3 +27,5 @@ I have added a New Pattern Problem that is Hollow Diamond Pattern
 Now starting with arrays
 
 i have done with 2 array problems first is largest element in array and other is second largest element in array
+
+i have learned new concept i.e minimum sub array
